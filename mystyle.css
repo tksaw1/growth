@@ -1,0 +1,47 @@
+html { color: #b4badc; }
+
+
+
+body {
+
+background-color: #293551;
+font-family:verdana;
+
+text-align:center;
+
+	}
+
+
+h1 {	color: white;
+	background-color: #0B1835;
+	}
+p {font-size: 20px;}
+ul{ text-align:left;}
+
+td {
+    background-color: #0A1A34;
+    border: thick solid #293551;
+}
+
+/*
+#myid{
+    color:red;
+  }
+
+#myid1{
+    //background-color:white;
+    box-sizing: border-box;
+    border-width: thick;
+  }
+
+
+div.box {
+  box-sizing: border-box;
+  width: 50%;
+  border: 5px solid red;
+  float: left;
+}
+
+table{
+    
+}*/
